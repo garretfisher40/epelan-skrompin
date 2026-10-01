@@ -1,0 +1,8 @@
+{
+  "name": "Remix e-Pelan SK Rompin v5",
+  "description": "Sistem e-Pelan Operasi Digital SK Rompin berteraskan Rancangan Pendidikan Malaysia 2026–2035 dengan penjejakan kemajuan PDCA, pangkalan data berterusan, dan muat naik fail/gambar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
